@@ -1,0 +1,72 @@
+.gif-placeholder {
+    height: 200px;
+    width: 150px;
+    margin-bottom: 2px;
+    border-radius: 10px;
+}
+
+.titulo {
+    text-align: center;
+    color: rgb(183, 183, 199);
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(23, 5, 128);
+    height: 100%;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+/* Estilo para deixar as perguntas e alternativas centralizadas */
+.textoPrincipal {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 20px;
+    border: 0px;
+
+}
+
+/* Estilo para deixar as perguntas em negrito */
+h2 {
+    font-weight: bold;
+}
+
+.centralizaOpcoes {
+    text-align: center;
+    color: red;
+    font-family: sans-serif;
+    font-size: 16px;
+
+}
+
+.botaoEnviarR {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: green;
+    color: bisque;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.botao {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.classeTotal {
+    background-color: aqua;
+}
+
+.footer {
+    background-color: rgb(36, 12, 124);
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
